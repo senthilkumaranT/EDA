@@ -98,5 +98,5 @@ zomato_data/
 
 ---
 
-**Data Source**: Zomato Restaurant Database  
+**Data Source**: Zomato Sample Dataset 
 **Analysis Type**: Exploratory Data Analysis (EDA)
